@@ -1,0 +1,35 @@
+
+@media screen and (max-width: 576px){
+
+    /* nav menu section responsive section  */
+
+    .nav-main-container{
+        flex-direction: column;
+        margin-top: 20px;
+        text-align: center;
+    }
+    .nav-item{
+        flex-direction: column;
+    }
+    .nav-one-section{
+       margin-top: 10px;
+    }
+    .nav-two-section{
+        margin-top: 20px;
+    }
+    /* nav banner section  */
+    .nav-banner{
+        flex-direction: column-reverse;
+        margin: 80px 0px 0px 0px;
+        padding: 0px;
+    }
+    .nav-banner-text{
+        text-align: center;
+        width: 100%;
+        padding: 0px;
+        margin: 0px;
+    }
+    .nav-banner-photo{
+        width: 100%;
+    }
+}
