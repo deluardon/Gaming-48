@@ -20,7 +20,7 @@
     /* nav banner section  */
     .nav-banner{
         flex-direction: column-reverse;
-        margin: 80px 0px 0px 0px;
+        margin: 150px 0px 0px 0px;
         padding: 0px;
     }
     .nav-banner-text{
