@@ -32,4 +32,26 @@
     .nav-banner-photo{
         width: 100%;
     }
+
+    /* gamer section  */
+    .gamer-container{
+        flex-direction: column;
+        margin: 0px;
+        padding: 0px;
+       
+    }
+    .gamer-photo img{
+        width: 300px;
+        object-fit: cover;
+        margin: 0px;
+    }
+    .gamer-info{
+        text-align: center;
+        margin: 0px;
+    }
+    .gamer-info p{
+           width: 50%;
+           margin: auto;
+           line-height: 30px;
+    }
 }
